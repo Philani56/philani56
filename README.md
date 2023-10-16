@@ -1,4 +1,4 @@
-## Hi, I'm Philani Khumalo! 
+## Hi, I'm Philani! 
 </br>
 
  <div>
