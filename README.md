@@ -1,6 +1,6 @@
 ## Hi, I'm Philani! 
-</br>
-<h3>Im a Software Developer with 3 years of experience in developing full stack applications using C# and Java.</h3>
+
+<h5>Im a Software Developer with 3 years of experience in developing full stack applications using C# and Java.</h5>
  <div>
   <a href="https://github.com/philani56">
  
